@@ -6,3 +6,12 @@ Input:
    r, annual rate of interest
    Output
    simple interest = p*t*r
+<footer>
+<p style="float:left; width: 20%;">
+Copyright © Jonathan Gossage, 2018
+</p>
+<p style="float:left; width: 60%; text-align:center;">
+<a 2023 XYZ, Inc</a>
+</p>
+
+</footer>
